@@ -1,27 +1,27 @@
 {
-  "_vpage/renderer/_default.page.client.ts": {
-    "file": "assets/_vpage/renderer/_default.page.client.ts.5a848222.js",
-    "src": "_vpage/renderer/_default.page.client.ts",
+  "_default.page.client.ts": {
+    "file": "assets/_default.page.client.ts.c9901345.js",
+    "src": "_default.page.client.ts",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.37fbd23b.js",
-      "_app.199b5d58.js"
+      "_vendor.5275522d.js",
+      "_app.8816df9c.js"
     ]
   },
   "examples/project/_default.page.client.ts": {
-    "file": "assets/examples/project/_default.page.client.ts.78dda0d4.js",
+    "file": "assets/examples/project/_default.page.client.ts.468466d8.js",
     "src": "examples/project/_default.page.client.ts",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_router.27df7810.js",
-      "_vendor.37fbd23b.js",
-      "_app.199b5d58.js"
+      "_router.df132c70.js",
+      "_vendor.5275522d.js",
+      "_app.8816df9c.js"
     ]
   },
-  "_vendor.37fbd23b.js": {
-    "file": "assets/vendor.37fbd23b.js",
+  "_vendor.5275522d.js": {
+    "file": "assets/vendor.5275522d.js",
     "dynamicImports": [
       "src/_error.page.vue",
       "src/pages/about.page.md",
@@ -29,7 +29,7 @@
       "examples/personal/pages/index.page.md",
       "examples/project/pages/about.page.md",
       "examples/project/pages/index.page.md",
-      "_vpage/renderer/_default.page.client.ts",
+      "_default.page.client.ts",
       "examples/project/_default.page.client.ts",
       "_vpage/renderer/_default.page.server.ts",
       "src/_default.page.route.ts",
@@ -37,10 +37,10 @@
       "examples/project/_default.page.route.ts"
     ]
   },
-  "_app.199b5d58.js": {
-    "file": "assets/app.199b5d58.js",
+  "_app.8816df9c.js": {
+    "file": "assets/app.8816df9c.js",
     "imports": [
-      "_vendor.37fbd23b.js"
+      "_vendor.5275522d.js"
     ],
     "dynamicImports": [
       "examples/personal/layouts/home.layout.vue",
@@ -51,81 +51,81 @@
       "assets/app.cd5d979d.css"
     ]
   },
-  "_router.27df7810.js": {
-    "file": "assets/router.27df7810.js",
+  "_router.df132c70.js": {
+    "file": "assets/router.df132c70.js",
     "imports": [
-      "_vendor.37fbd23b.js",
-      "_app.199b5d58.js"
+      "_vendor.5275522d.js",
+      "_app.8816df9c.js"
     ]
   },
   "src/_error.page.vue": {
-    "file": "assets/_error.page.20efb880.js",
+    "file": "assets/_error.page.e18f9fdf.js",
     "src": "src/_error.page.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_vendor.37fbd23b.js"
+      "_vendor.5275522d.js"
     ]
   },
   "src/pages/about.page.md": {
-    "file": "assets/about.page.2ec173a7.js",
+    "file": "assets/about.page.0a7ed721.js",
     "src": "src/pages/about.page.md",
     "isDynamicEntry": true,
     "imports": [
-      "_attachment.54f32e5e.js",
-      "_vendor.37fbd23b.js"
+      "_attachment.0fb935c2.js",
+      "_vendor.5275522d.js"
     ]
   },
-  "_attachment.54f32e5e.js": {
-    "file": "assets/attachment.54f32e5e.js",
+  "_attachment.0fb935c2.js": {
+    "file": "assets/attachment.0fb935c2.js",
     "imports": [
-      "_vendor.37fbd23b.js"
+      "_vendor.5275522d.js"
     ]
   },
   "src/pages/index.page.md": {
-    "file": "assets/index.page.cb25aaac.js",
+    "file": "assets/index.page.04625563.js",
     "src": "src/pages/index.page.md",
     "isDynamicEntry": true,
     "imports": [
-      "_attachment.54f32e5e.js",
-      "_vendor.37fbd23b.js"
+      "_attachment.0fb935c2.js",
+      "_vendor.5275522d.js"
     ]
   },
   "examples/personal/pages/index.page.md": {
-    "file": "assets/index.page.a34390e9.js",
+    "file": "assets/index.page.a8d92d7e.js",
     "src": "examples/personal/pages/index.page.md",
     "isDynamicEntry": true,
     "imports": [
       "_plugin-vue_export-helper.5a098b48.js",
-      "_vendor.37fbd23b.js"
+      "_vendor.5275522d.js"
     ]
   },
   "_plugin-vue_export-helper.5a098b48.js": {
     "file": "assets/plugin-vue_export-helper.5a098b48.js"
   },
   "examples/project/pages/about.page.md": {
-    "file": "assets/about.page.6cd43157.js",
+    "file": "assets/about.page.2a43e9fa.js",
     "src": "examples/project/pages/about.page.md",
     "isDynamicEntry": true,
     "imports": [
-      "_ProjectFooter.cc52aaa3.js",
-      "_vendor.37fbd23b.js",
+      "_ProjectFooter.7754784e.js",
+      "_vendor.5275522d.js",
       "_plugin-vue_export-helper.5a098b48.js"
     ]
   },
-  "_ProjectFooter.cc52aaa3.js": {
-    "file": "assets/ProjectFooter.cc52aaa3.js",
+  "_ProjectFooter.7754784e.js": {
+    "file": "assets/ProjectFooter.7754784e.js",
     "imports": [
       "_plugin-vue_export-helper.5a098b48.js",
-      "_vendor.37fbd23b.js"
+      "_vendor.5275522d.js"
     ]
   },
   "examples/project/pages/index.page.md": {
-    "file": "assets/index.page.3accc595.js",
+    "file": "assets/index.page.c6b85f20.js",
     "src": "examples/project/pages/index.page.md",
     "isDynamicEntry": true,
     "imports": [
-      "_ProjectFooter.cc52aaa3.js",
-      "_vendor.37fbd23b.js",
+      "_ProjectFooter.7754784e.js",
+      "_vendor.5275522d.js",
       "_plugin-vue_export-helper.5a098b48.js"
     ]
   },
@@ -150,32 +150,32 @@
     "isDynamicEntry": true
   },
   "examples/personal/layouts/home.layout.vue": {
-    "file": "assets/home.layout.6e05ad2d.js",
+    "file": "assets/home.layout.c4077f53.js",
     "src": "examples/personal/layouts/home.layout.vue",
     "isDynamicEntry": true,
     "imports": [
       "_plugin-vue_export-helper.5a098b48.js",
-      "_vendor.37fbd23b.js"
+      "_vendor.5275522d.js"
     ]
   },
   "examples/project/layouts/home.layout.vue": {
-    "file": "assets/home.layout.92d9358e.js",
+    "file": "assets/home.layout.ee23dfae.js",
     "src": "examples/project/layouts/home.layout.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_router.27df7810.js",
-      "_vendor.37fbd23b.js",
-      "_app.199b5d58.js"
+      "_router.df132c70.js",
+      "_vendor.5275522d.js",
+      "_app.8816df9c.js"
     ]
   },
   "src/layouts/home.layout.vue": {
-    "file": "assets/home.layout.123617a3.js",
+    "file": "assets/home.layout.fc8520ae.js",
     "src": "src/layouts/home.layout.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_router.27df7810.js",
-      "_vendor.37fbd23b.js",
-      "_app.199b5d58.js"
+      "_router.df132c70.js",
+      "_vendor.5275522d.js",
+      "_app.8816df9c.js"
     ]
   }
 }
