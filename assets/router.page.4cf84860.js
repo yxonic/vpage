@@ -1,0 +1,1 @@
+import{h as e}from"./vendor.692199b2.js";const o=[e("h1",{},["Router"]),e("p",{},[e("em",{},["TBA"])])];var t={render(){return o}};const a={title:"Router - VPage Docs",layout:"book"};export{t as default,a as frontmatter,o as nodes};

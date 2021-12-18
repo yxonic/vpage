@@ -1,1 +1,0 @@
-import{h as a}from"./vendor.b61f0aaa.js";var e={render(){return[a("h1",{},["Data fetching"]),a("p",{},[a("em",{},["TBA"])])]}};const r={title:"Data fetching - VPage Docs",layout:"book"};export{e as default,r as frontmatter};
