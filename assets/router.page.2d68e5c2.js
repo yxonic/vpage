@@ -1,1 +1,0 @@
-import{h as r}from"./vendor.06450116.js";var t={render(){return[r("h1",{},["Router"]),r("p",{},[r("em",{},["TBA"])])]}};const o={title:"Router - VPage Docs",layout:"book"};export{t as default,o as frontmatter};
