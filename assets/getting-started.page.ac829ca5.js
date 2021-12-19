@@ -1,4 +1,4 @@
-import{h as e}from"./vendor.692199b2.js";const t=[e("h1",{},["Getting Started"]),e("p",{},["Before you start, run the following command to start a development server:"]),e("pre",{},[`npm run dev
+import{h as e}from"./vendor.1ee7c6df.js";const t=[e("h1",{},["Getting Started"]),e("p",{},["Before you start, run the following command to start a development server:"]),e("pre",{},[`npm run dev
 `]),e("p",{},["Read the ",e("a",{href:"/vpage/docs/installation"},["installation guide"])," for more details."]),e("h2",{},["Start from an example"]),e("p",{},["VPage lets you start a website extremely easily. We have hand-crafted several example sites as a starting point for you, and all you need to do is to copy-and-paste the one that fits your need, and build your own website upon it."]),e("p",{},["For demonstration, let\u2019s copy ",e("code",{},["assets/"]),", ",e("code",{},["components/"]),", ",e("code",{},["layouts/"])," and ",e("code",{},["pages/"])," directories from ",e("code",{},["examples/personal/"])," to ",e("code",{},["src/"])," (overwrite the original directories). Your directory structure would then be like:"]),e("pre",{},[`src/
   assets/
     ...
