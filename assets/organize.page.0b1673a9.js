@@ -1,0 +1,1 @@
+import{h as e}from"./vendor.b4a4ca7a.js";const a=[e("h1",{},["Organize a large website"]),e("p",{},[e("em",{},["TBA"])])];var t={render(){return a}};const o={title:"Organize a large website - VPage Docs",layout:"book"};export{t as default,o as frontmatter,a as nodes};
